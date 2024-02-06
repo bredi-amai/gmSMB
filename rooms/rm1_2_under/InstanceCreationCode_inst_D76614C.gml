@@ -1,0 +1,1 @@
+troom = rm1_2_bonus

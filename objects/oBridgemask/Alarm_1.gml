@@ -1,0 +1,1 @@
+bridgecol = instance_place(x,y,oCol);

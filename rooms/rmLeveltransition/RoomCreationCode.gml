@@ -1,0 +1,1 @@
+global.time = 0;

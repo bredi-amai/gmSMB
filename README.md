@@ -1,2 +1,3 @@
-i suck at coding, worst of all this is my first network game.
-here is the source code of it, might find a lot of spaghetti on it i'm SORRY
+ - GMS2 version: v2022.9.1.66, IDE v2022.9.1.51 -
+
+there might be a lot of spaghetti code. Sorry for that
